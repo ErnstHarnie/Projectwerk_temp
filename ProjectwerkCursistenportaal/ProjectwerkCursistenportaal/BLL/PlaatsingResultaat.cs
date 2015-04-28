@@ -12,18 +12,18 @@ namespace ProjectwerkCursistenportaal.BLL
         [DataMember]
         public int Id { get; set; }
         [DataMember]
-        public int PuntenTotaal { get; set; }
+        public double PuntenTotaal { get; set; }
         [DataMember]
-        public int PuntenPermanenteEvaluatie { get; set; }
+        public double PuntenPermanenteEvaluatie { get; set; }
         [DataMember]
-        public int PuntenPermanenteEvaluatieNaDeliberatie { get; set; }
+        public double PuntenPermanenteEvaluatieNaDeliberatie { get; set; }
         [DataMember]
-        public int PuntenEersteZit { get; set; }
+        public double PuntenEersteZit { get; set; }
         [DataMember]
-        public int PuntenEersteZitNaDeliberatie { get; set; }
+        public double PuntenEersteZitNaDeliberatie { get; set; }
         [DataMember]
-        public int PuntenTweedeZit { get; set; }
+        public double PuntenTweedeZit { get; set; }
         [DataMember]
-        public int PuntenTweedeZitNaDeliberatie { get; set; }
+        public double PuntenTweedeZitNaDeliberatie { get; set; }
     }
 }

@@ -17,5 +17,13 @@ namespace ProjectwerkCursistenportaal.BLL
         public int IdPlaatsingResultaat { get; set; }
         [DataMember]
         public int IdPlaatsingsStatus { get; set; }
+        [DataMember]
+        public DateTime Startdatum { get; set; }
+        [DataMember]
+        public DateTime Einddatum { get; set; }
+        [DataMember]
+        public int Percentage { get; set; }
+        [DataMember]
+        public int isGeannuleerd { get; set; }
     }
 }

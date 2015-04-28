@@ -13,8 +13,8 @@ namespace ProjectwerkCursistenportaal.BLL
         [DataMember]
         public string Omschrijving { get; set; }
         [DataMember]
-        public Opleidingsvariant Opleidingsvariant { get; set; }
+        public int Opleidingsvariant { get; set; }
         [DataMember]
-        public StudieBewijsType Studiebewijstype { get; set; }
+        public int Studiebewijstype { get; set; }
     }
 }

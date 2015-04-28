@@ -23,3 +23,28 @@ c:\users\earleys\documents\visual studio 2013\Projects\ProjectwerkCursistenporta
 c:\users\earleys\documents\visual studio 2013\Projects\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.csprojResolveAssemblyReference.cache
 c:\users\earleys\documents\visual studio 2013\Projects\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.dll
 c:\users\earleys\documents\visual studio 2013\Projects\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.pdb
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.csprojResolveAssemblyReference.cache
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\obj\Debug\ProjectwerkCursistenportaal.pdb
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\ProjectwerkCursistenportaal.dll.config
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\ProjectwerkCursistenportaal.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\ProjectwerkCursistenportaal.pdb
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\Newtonsoft.Json.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Net.Http.Formatting.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Helpers.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Http.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Http.WebHost.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Razor.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Helpers.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Razor.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\Newtonsoft.Json.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Net.Http.Formatting.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Http.xml
+C:\Users\Earleys\Desktop\ProjectwerkCursistenportaal\ProjectwerkCursistenportaal\bin\System.Web.Http.WebHost.xml

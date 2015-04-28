@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Runtime.Serialization;
+using System.ServiceModel;
+using System.ServiceModel.Web;
+
 
 namespace ProjectwerkCursistenportaal.BLL
 {
@@ -19,4 +22,6 @@ namespace ProjectwerkCursistenportaal.BLL
         public string Familienaam { get; set; }
 
     }
+
+
 }

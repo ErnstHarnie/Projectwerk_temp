@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ProjectwerkCursistenportaal.Service1" CodeBehind="DiplomaService.svc.cs" %>

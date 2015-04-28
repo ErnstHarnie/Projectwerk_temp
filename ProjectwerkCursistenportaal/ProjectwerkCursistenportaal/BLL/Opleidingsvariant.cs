@@ -15,6 +15,6 @@ namespace ProjectwerkCursistenportaal.BLL
         [DataMember]
         public int Code { get; set; }
         [DataMember]
-        public Opleiding Opleiding { get; set; }
+        public int Opleiding { get; set; }
     }
 }

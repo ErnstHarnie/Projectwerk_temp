@@ -12,7 +12,7 @@ namespace ProjectwerkCursistenportaal.BLL
         [DataMember]
         public int Id { get; set; }
         [DataMember]
-        public int Code { get; set; }
+        public string Code { get; set; }
         [DataMember]
         public string Omschrijving { get; set; }
         [DataMember]
